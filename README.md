@@ -13,3 +13,7 @@
 * [x] Setup new react app.
 * [x] Cleanup.
 * [x] Create firebase config file.
+* [x] Header Component.
+    * [x] Header left.
+        * [x] FB Logo.
+        * [x] Search Icon.
