@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      facebook clone
+    <div className="app">
+      <h1>facebook clone</h1>
     </div>
   );
 }

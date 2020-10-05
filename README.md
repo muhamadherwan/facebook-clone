@@ -8,3 +8,8 @@
 * Firebase's Firestore realtime DB.
 * Firebase Hosting.
 * Firebase Google Authentication.
+
+### Check list:
+* [x] Setup new react app.
+* [x] Cleanup.
+* [x] Create firebase config file.
