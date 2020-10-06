@@ -1,14 +1,15 @@
 import React from 'react';
 import Header from './Header';
+import Sidebar from './Sidebar';
 import './App.css';
 
 
 function App() {
   return (
-    <div className="app">
+    <div className="app">,
       <Header />
       {/* app body */}
-      {/* sidebar */}
+      <Sidebar />
       {/* feed */}
       {/* widgets */}
     </div>
