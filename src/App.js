@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import Sidebar from './Sidebar';
-import Feed from './Feed';
+// import Feed from './Feed';
 import './App.css';
 
 
@@ -10,7 +10,7 @@ function App() {
     <div className="app">,
       <Header />
       <Sidebar />
-      <Feed />
+      {/* <Feed /> */}
       {/* widgets */}
     </div>
   );
