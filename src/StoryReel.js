@@ -24,7 +24,8 @@ function StoryReel() {
             image="https://scontent.fkul15-1.fna.fbcdn.net/v/t1.0-9/293517_2214754442360_282605545_n.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_eui2=AeEn7haI4edaIahI8cFhvr42RmCHdE_vYUpGYId0T-9hSrd2rPbgWlLEdJCjqvZvMul01mFqyUPbd9plDF0uuspI&_nc_ohc=zPtNZafvOEoAX8G2HDN&_nc_ht=scontent.fkul15-1.fna&oh=66ff84778476cf79033a735230bc7e6a&oe=5FA3AC91"
             profileSrc="https://scontent.fkul15-1.fna.fbcdn.net/v/t31.0-1/p240x240/12362945_10206529640333738_6684050146447758811_o.jpg?_nc_cat=106&_nc_sid=dbb9e7&_nc_eui2=AeF31qyqqvxQ481eHQsjqD51mRD4J3hF6oeZEPgneEXqh0BDu_SYIqh2Vlsbhsa-74h4YvpBaIjvvPAPdkw79eGu&_nc_ohc=XrNzGHi-gAoAX9_3psK&_nc_ht=scontent.fkul15-1.fna&tp=6&oh=c52211bbb9d70d6d7a7f439a2d260484&oe=5FA32ABD"
             title="Hendri Helmi"
-            />  
+            />
+                  
         </div>
     )
 }

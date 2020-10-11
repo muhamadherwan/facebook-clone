@@ -22,7 +22,7 @@ function MessageSender() {
         <div className='messageSender'>
             
             <div className="messageSender__top">
-                <Avatar />
+                <Avatar src='https://avatars3.githubusercontent.com/u/59008066?s=460&u=d0a1e975222cbcbea2af851d300cd1fbf0110563&v=4'/>
                 <form>
                     <input 
                         value={input}

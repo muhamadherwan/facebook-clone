@@ -10,6 +10,9 @@
     margin-right: 10px;
     transition: transform 100ms ease-in;
     cursor: pointer;
+    /* wan add */
+    margin-top: 30px;
+    
 }
 
 .story:hover {
