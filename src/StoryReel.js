@@ -25,6 +25,11 @@ function StoryReel() {
             profileSrc="https://scontent.fkul15-1.fna.fbcdn.net/v/t31.0-1/p240x240/12362945_10206529640333738_6684050146447758811_o.jpg?_nc_cat=106&_nc_sid=dbb9e7&_nc_eui2=AeF31qyqqvxQ481eHQsjqD51mRD4J3hF6oeZEPgneEXqh0BDu_SYIqh2Vlsbhsa-74h4YvpBaIjvvPAPdkw79eGu&_nc_ohc=XrNzGHi-gAoAX9_3psK&_nc_ht=scontent.fkul15-1.fna&tp=6&oh=c52211bbb9d70d6d7a7f439a2d260484&oe=5FA32ABD"
             title="Hendri Helmi"
             />
+            <Story 
+            image="https://scontent.fkul15-1.fna.fbcdn.net/v/t1.0-9/s960x960/119382190_10224614055485186_1013882562590725641_o.jpg?_nc_cat=100&_nc_sid=110474&_nc_eui2=AeFk8FrvqwYUBG9xz1rtOqWQr8WKWvVRLLKvxYpa9VEssj-V7rO7sZnjZbXDG-9zLYiAKQAwqOqYbj1CyAtBREhp&_nc_ohc=AWrT3xPgqB8AX8ni10n&_nc_ht=scontent.fkul15-1.fna&tp=7&oh=75ce95d5a2b0a22827a5494fd13c3e38&oe=5FA8F295"
+            profileSrc="https://scontent.fkul15-1.fna.fbcdn.net/v/t1.0-1/p240x240/74205710_10221076941579549_9125547864561287168_n.jpg?_nc_cat=104&_nc_sid=dbb9e7&_nc_eui2=AeEVGLtOSL46bcqyIFabXmIOublNfC_buni5uU18L9u6eC6x2rOYhnfP4WMuvjhiL9cOt_QgWWGE1WagFXGXN1Lq&_nc_ohc=kGzbLMVL_wkAX_853Ys&_nc_ht=scontent.fkul15-1.fna&tp=6&oh=1fe3c4ba1def9843a86a2c58208a8926&oe=5FA8029F"
+            title="Raffi Da Silva"
+            />
                   
         </div>
     )

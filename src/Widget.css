@@ -1,0 +1,7 @@
+.widget > h4 {
+    /* margin-left: 10px; */
+    font-weight: 600;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: white;
+}
