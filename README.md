@@ -14,6 +14,17 @@
 * [x] Cleanup.
 * [x] Create firebase config file.
 * [x] Header Component.
-    * [x] Header left.
-        * [x] FB Logo.
-        * [x] Search Icon.
+* [x] Sidebar Component.
+* [x] SidebarReel Component.
+* [x] Story Component.
+* [x] StoryReel Component.
+* [x] Sidebar Component.
+* [x] SidebarReel Component.
+* [x] MessegerSender Component.
+* [x] Post Component.
+* [x] Widget Component.
+* [x] Setup Firebase Firestore database.
+* [x] Deploy to Firebase hosting.
+* [x] Testing
+
+
