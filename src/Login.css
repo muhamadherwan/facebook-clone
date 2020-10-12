@@ -25,3 +25,17 @@
     background-color: white;
     color:#2e81f4;
 }
+
+.login__desc{
+    text-align: center;
+}
+
+.login__desc > h4 {
+    font-weight: 600;
+    color:#2e81f4;
+}
+
+.login__desc > h5 {
+    font-weight: 600;
+    color:#999;
+}
